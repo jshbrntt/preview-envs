@@ -1,0 +1,3 @@
+[submodule "projects/okteto"]
+	path = projects/okteto
+	url = git@github.com:preview-env-demos/okteto.git
