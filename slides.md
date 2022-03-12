@@ -139,3 +139,10 @@ Dynamic Environments
   </small>
 </div>
 </div>
+
+---
+
+<div class="flex flex-col h-full">
+  <h1>Okteto Demo</h1>
+  <video class="overflow-hidden mx-auto" src="/okteto-demo.mp4" type="video/mp4" controls />
+</div>
